@@ -1,16 +1,21 @@
-## Hi there 👋
+<h1 id="profile-heading">👋 Hi, I’m <span style="font-weight:700">Ayoub</span></h1>
 
-<!--
-**AyuubDev/AyuubDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <p>
+    I’m a <strong>Front-End Developer</strong> focused on building fast, responsive, and accessible web applications.
+  </p>
 
-Here are some ideas to get you started:
+  <ul class="skills" aria-label="Technical skills">
+    <li class="skill">HTML</li>
+    <li class="skill">CSS</li>
+    <li class="skill">JavaScript</li>
+    <li class="skill">React</li>
+    <li class="skill">Tailwind CSS</li>
+  </ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <p>🚀 Passionate about clean code, modern front-end architecture, and continuous improvement.</p>
+  <p>🎯 Goal: Deliver high-quality web experiences that are both functional and visually polished.</p>
+
+  <p class="contact">📫 How to reach me:
+    <a href="mailto:HireBalouch@gmail.com" rel="noopener noreferrer">HireBalouch@gmail.con</a>
+  </p>
+</section>
